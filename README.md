@@ -54,8 +54,8 @@ When an incident hits, every minute tracing dependencies costs real downtime. Th
 **1 · Clone and configure**
 
 ```bash
-git clone https://github.com/Syed-Abdul-Rehman-Nasir/neo4j-enterprise neo4j-enterprise
-cd neo4j-enterprise
+git clone https://github.com/MuhammadHamzaSajjad274/neo4j-main-enterprise
+cd neo4j-main-enterprise
 cp .env.example .env        # then set a real NEO4J_PASSWORD
 ```
 
